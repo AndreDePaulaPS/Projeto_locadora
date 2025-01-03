@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb145018-b1b7-45fd-a0a9-09fd21e9b803" name="Changes" comment="Commit inicial">
-      <change beforePath="D:/Projeto_Locadora/.idea/workspace.xml" beforeDir="false" afterPath="D:/Projeto_Locadora/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="D:/Projeto_Locadora/src/main/kotlin/Entity/Veiculo.kt" beforeDir="false" afterPath="D:/Projeto_Locadora/src/main/kotlin/entity/Veiculo.kt" afterDir="false" />
-    </list>
+    <list default="true" id="eb145018-b1b7-45fd-a0a9-09fd21e9b803" name="Changes" comment="Adicionando as classes do projeto." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735903471693</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adicionando as classes do projeto.">
+      <option name="closed" value="true" />
+      <created>1735924382236</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735924382236</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +145,7 @@
       <path value="D:Projeto_Locadora" />
     </ignored-roots>
     <MESSAGE value="Commit inicial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit inicial" />
+    <MESSAGE value="Adicionando as classes do projeto." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando as classes do projeto." />
   </component>
 </project>
